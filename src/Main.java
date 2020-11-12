@@ -7,5 +7,7 @@ public class Main {
         //B21 is good at IntelliJ
         //new comment
         //yay i can see commit dialog finally
+
+        //some changes
     }
 }
